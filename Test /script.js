@@ -3,36 +3,13 @@ const quizContainer = document.getElementById('start-btn')
 const questionElement = document.getElementById('question')
 const buttonElement = document.getElementById('answer-btn')
 
-const button1 = document.getElementById('btn1')
-const button2 = document.getElementById('btn2')
-const button3 = document.getElementById('btn3')
-const button4 = document.getElementById('btn4')
-
-
-
 
 document.getElementById("start-btn").onclick = function () {
     quizContainer.remove();
 
     var element = document.getElementById("question-container");
     element.classList.remove("hide");
-    startGame()
 };
-
-
-function startGame() {
-    questionElement.innerText = 'Commonly Used data types DO NOT include?'
-    button1.innerText = 'Strings'
-    button2.innerText = 'boolean',
-    button3.innerText = 'alerts',
-    button4.innerText = 'numbers'
-
-}
-
-
-
-
-
 
 
 const questions = [
