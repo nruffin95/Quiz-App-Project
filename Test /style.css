@@ -1,0 +1,40 @@
+
+
+body {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+.btn-grid{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    height: 40vh;
+
+}
+
+.high-score {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    padding: 90px;
+}
+
+.controls {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    text-align: center;
+    width: 100vw;
+    height: 70vh;
+}
