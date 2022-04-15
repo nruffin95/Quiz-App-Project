@@ -48,17 +48,17 @@
     text-align: center;
 }
 
-#progressBar {
+/* #progressBar {
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid gold;
     margin-top: 2rem;
     border-radius: 50px;
     overflow: hidden;
-}
+} */
 
-#progressBarFull {
+/* #progressBarFull {
     height: 100%;
     background: gold;
     width: 0%;
-}
+} */
