@@ -48,17 +48,13 @@
     text-align: center;
 }
 
-/* #progressBar {
-    width: 20rem;
-    height: 3rem;
-    border: 0.2rem solid gold;
-    margin-top: 2rem;
-    border-radius: 50px;
-    overflow: hidden;
-} */
-
-/* #progressBarFull {
-    height: 100%;
-    background: gold;
-    width: 0%;
-} */
+#countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    max-width: 5rem;
+}
