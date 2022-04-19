@@ -27,36 +27,36 @@ let availableQuestions = []
 
 let questions = [
     {
-        question: 'What is 2 and 2',
-        choice1: '2',
-        choice2: '4',
-        choice3: '21',
-        choice4: '17',
-        answer: '2'
+        question: 'Who is the maker of the iPhone?',
+        choice1: 'Apple',
+        choice2: 'Microsoft',
+        choice3: 'Zenith',
+        choice4: 'IBM',
+        answer: '1'
     },
     {
-        question: 'What is 1 and 1',
-        choice1: '2',
-        choice2: '4',
-        choice3: '21',
-        choice4: '17',
-        answer: '2'
+        question: 'Who is the greatest basketball player of all time?',
+        choice1: 'Kobe Bryant',
+        choice2: 'Lebron James',
+        choice3: 'Michael Jordan',
+        choice4: 'Chris Paul',
+        answer: '3'
     },
     {
-        question: 'What is 3 and 3',
-        choice1: '2',
-        choice2: '4',
-        choice3: '21',
-        choice4: '17',
-        answer: '2'
+        question: 'Who has the most NBA Championships?',
+        choice1: 'Celtics',
+        choice2: 'Rockets',
+        choice3: 'Bulls',
+        choice4: 'Boston Celtics & Los Angeles Lakers',
+        answer: '4'
     },
     {
-        question: 'What is 4 and 4',
+        question: 'How Many Rings Does Tom Brady Have?',
         choice1: '2',
         choice2: '4',
-        choice3: '21',
-        choice4: '17',
-        answer: '2'
+        choice3: '7',
+        choice4: '1',
+        answer: '3'
     },
 ]
 
